@@ -1,4 +1,4 @@
-![Banner]<img src="https://github.com/10kevin100/10kevin100/blob/main/images/banner.png " alt="Banner" width="800"/>
+![Banner]("https://github.com/10kevin100/10kevin100/blob/main/images/banner.png")
 
 ### Hi there 👋
 
