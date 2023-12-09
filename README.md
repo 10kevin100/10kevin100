@@ -1,4 +1,4 @@
-![Banner](https://github.com/10kevin100/10kevin100/blob/main/images/banner.png)
+![Banner](https://github.com/10kevin100/10kevin100/blob/main/images/banner.png ){width=800}
 
 ### Hi there 👋
 
